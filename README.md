@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Oumar Ben Lol — Ingénieur IA & créateur de produits numériques. Des idées aux systèmes utiles." />
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/banner.svg" />
+    <img src="assets/banner.gif" width="100%" alt="Oumar Ben Lol — Ingénieur IA & créateur de produits numériques. Des idées aux systèmes utiles." />
+  </picture>
 </p>
 
 <p align="center">
